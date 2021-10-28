@@ -1,10 +1,8 @@
-class Simple{
-    public static void main(String args[]){
+package com.company;
 
+public class Main {
 
-        System.out.println("Hello3");
-        System.out.println("unused");
-        System.out.println("Hello Java");
-        System.out.println("Hello Java");
+    public static void main(String[] args) {
+        // write your code here
     }
 }
