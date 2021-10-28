@@ -4,6 +4,8 @@ class Simple{
 
         System.out.println("Hello3");
         System.out.println("unused");
+        System.out.println("Hello3");
+        System.out.println("unused");
         System.out.println("Hello Java");
         System.out.println("Hello Java");
     }
